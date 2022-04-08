@@ -1,0 +1,25 @@
+.renderPageNumber{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+.button{
+    background-color: #0c0c0c;
+    color: white;
+    border-radius: 7px;
+    border-color: black;
+   
+   
+  
+}
+.head{
+    margin-left: 390px;
+}
+/* #hight{
+    height: 0%;
+} */
+.image{
+    display: flex;
+     justify-content: center; 
+    
+}
